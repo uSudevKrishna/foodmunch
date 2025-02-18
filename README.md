@@ -6,7 +6,11 @@ This project is a beautifully designed restaurant brochure created using HTML an
 Key Features:
 
 Elegant and responsive design for a seamless user experience
+
 Well-structured HTML layout with CSS styling for aesthetics
+
 Sections for restaurant introduction, menu highlights, special offers, and contact details
+
 Attractive typography and color scheme to match the restaurant's theme
+
 Optimized for different screen sizes (mobile-friendly)
